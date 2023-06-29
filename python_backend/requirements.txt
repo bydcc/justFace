@@ -1,0 +1,10 @@
+onnxruntime==1.15.0
+insightface==0.7.3
+numpy==1.23.5
+uvicorn==0.22.0
+fastapi==0.97.0
+python-socketio==5.4.0
+face-alignment==1.4.0
+mmcv==2.0.0
+mmcls==0.20.1
+mmsegmentation==0.24.1
